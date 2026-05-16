@@ -22,8 +22,8 @@ Step 5: Working with the MainActivity2 File
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: YASHWANTH RAJA DURAI V
-Registeration Number : 212222040184
+Developed by: LATHIKA L J
+Registeration Number : 212223220050
 */
 ```
 ### In activity_main.xml
@@ -195,7 +195,7 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-03-18 at 09 27 01_a9778e34](https://github.com/AnnBlessy/ExplicitIntent-MAD/assets/119477835/b3d18fd4-289f-4577-b1ec-98669bd19de5) __  
+![WhatsApp Image 2024-03-18 at 09 27 01_a9778e34](https://github.com/AnnBlessy/ExplicitIntent-MAD/assets/119477835/b3d18fd4-289f-4577-b1ec-98669bd19de5) 
 ![WhatsApp Image 2024-03-18 at 09 27 02_7e706958](https://github.com/AnnBlessy/ExplicitIntent-MAD/assets/119477835/f9aac70d-92cf-4f59-bf65-afa56e23c3d0)
 
 ## RESULT
